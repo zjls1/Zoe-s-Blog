@@ -1,32 +1,33 @@
 ---
-title: About us
-date: 2017-01-01T00:00:00.000Z
+title: About me
+date: 2019-04-14T18:00:00.000Z
 permalink: /about/index.html
 navtitle: About
 tags:
   - nav
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+10 seconds. Sometimes that is all you get to inspire someone to vote, to empower someone with a voice, to start a revolution. I grew up on the beaches of New Zealand and I simply would like the young people of today, to live in a better environment than the one we have now.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
 
-## Our services
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I travel the world to learn and share different ways to deeply connect with people. I'm so inspired by the work that so many are doing to make the world a better place.
 
-### Blue-sky thinking
+
+
+Right now, we are at a fork in the road. Climate change is both an environmental and social justice issue. We have the opportunity to either create a thriving, clean, inclusive, accessible global society. The next 10 years will cement our future. Let's get inspired and organised.
+
+## What I do
+
+I'm working in sales and marketing to get a deeper understanding of people, their inspirations and how to effect change.
+
+#### People
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-#### Management frameworks
+#### Sales
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Building from a foundation of door-to-door educational and political sales, I've stepped into an inside sales role for a magazine. I'm managing my own sales pipeline and closing sales with executive level decision-makers.
 
-##### Regulatory convergence
+#### Marketing
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I have co-ordinated and delivered political communication campaigns across a range of platforms. This includes co-ordinating calling, email and text campaigns for Local and National political elections in New Zealand, Australia and the UK. I bring experience managing large CRM databases. I enjoy using data-driven techniques to analyse marketing campaign targets. I love testing and adapting to new technology.
