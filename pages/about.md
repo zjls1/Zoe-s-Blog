@@ -22,7 +22,7 @@ I'm working in sales and marketing to get a deeper understanding of people, thei
 
 #### People
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I believe that most people are trying their best. With that assumption in mind, I love to empower people with the knowledge, tools and opportunities to be able to help them achieve their mission. Organising people for political or environmental campaigns is a passion of mine.
 
 #### Sales
 
